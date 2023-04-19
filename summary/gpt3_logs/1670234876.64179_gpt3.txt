@@ -1,0 +1,13 @@
+PROMPT:
+
+Write a detailed summary of the following tweets: 
+
+Pakistan, and Rwanda. There is a strong call for action on climate change, with a recognition that we are not on track to meet the 1.5 degree Celsius target set in the Paris Agreement. There is also a recognition of the progress made since 2015, and a commitment to continue working towards ambitious climate goals.  The COP27 climate conference kicks off today in Sharm El Sheikh, Egypt. Scientists have warned that we are running out of time to avoid climate catastrophe, and this conference presents a historic opportunity to put agriculture and food systems front and center in the climate change discussions. There is a strong push for developed countries to take action on mitigation targets, and for adequate adaptation plans to be put in place to help those countries that will be most affected by climate change. However, there is concern that the oil industry will have a strong presence at the conference and derail progress. There is also worry that Egyptian authorities will crack down on dissenters during and after the conference.  The tweets discuss the upcoming COP27 summit and the various issues that will be addressed there. Among these are climate change, loss and damage, and just transition. There is some skepticism about the effectiveness of the summit, with some questioning why certain world leaders are attending.
+
+DETAILED SUMMARY: 
+
+==========
+
+RESPONSE:
+
+The COP27 climate conference is set to begin today in Sharm El Sheikh, Egypt. This summit is a historic opportunity for countries to discuss and enact ambitious climate goals, especially in terms of agriculture and food systems. Developed countries are being called upon to reduce their emissions, while providing resources to those countries most vulnerable to climate change. However, there is some skepticism surrounding the conference due to the potential presence of the oil industry and the possible crackdown of dissenters by Egyptian authorities. Despite this, there is a strong call for action on climate change, with a recognition of the progress made since 2015 and a commitment to continue working towards ambitious goals. There is also a question as to why certain world leaders are attending the summit. Consequently, this conference presents an important chance for countries such as Pakistan and Rwanda to take a stand on climate change and ensure that the necessary steps are taken to avoid catastrophe.
