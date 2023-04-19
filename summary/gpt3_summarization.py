@@ -13,7 +13,7 @@ def open_file(filepath):
         return infile.read()
 
 
-openai.api_key = "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"
+openai.api_key = "insert your code here"
 
 
 def save_file(content, filepath):
